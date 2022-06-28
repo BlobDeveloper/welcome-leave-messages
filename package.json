@@ -1,0 +1,31 @@
+{
+  "name": "welcome-leave-messages",
+  "version": "1.0.0",
+  "description": "Discord bot for welcome and leave messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlobDeveloper/welcome-leave-messages.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "welcome",
+    "messages",
+    "discord",
+    "leave",
+    "messages"
+  ],
+  "author": "BlobDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlobDeveloper/welcome-leave-messages/issues"
+  },
+  "homepage": "https://github.com/BlobDeveloper/welcome-leave-messages#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
