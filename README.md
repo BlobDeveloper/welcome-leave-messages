@@ -6,5 +6,5 @@
 
 <ul>
     <li>Replace things in config.json for yours.</li>
-    <li>Open terminal and type: `npm install && node .`</li>
+    <li>Open terminal and type: <code>npm install && node .</code></li>
 </ul>
